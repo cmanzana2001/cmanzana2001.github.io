@@ -4,7 +4,7 @@ published: true
 
 ##  This is the first post
 
-Testing
+Another test
 
 * First post
 
