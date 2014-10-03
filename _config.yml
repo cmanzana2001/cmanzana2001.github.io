@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Carlos's Escience Blog
+tagline:          Big Data Econometrics
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Carlos Manzanares
+  url:            
+  email:          carlos.a.manzanares@vanderbilt.edu
 
 # Custom vars
 version:          1.0.0
