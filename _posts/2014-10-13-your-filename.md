@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Tues/Thurs Oct. 7 and 9th
@@ -8,4 +8,3 @@ published: false
 - Worked with Andrew set up Amazon EC2 instance for the project 
 - Attempted to run this "baby" R script on the Amazon instance, but discovered that the instance runs out of memory
 - Am reducing the size of input R objects, which are the apparent cause of the memory issue
-
