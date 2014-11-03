@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Oct. 21,23,28,30
@@ -10,10 +10,3 @@ published: false
 - Searched for R packages that would run desired statistical estimation techniques using sparse matrices as inputs
 - Found diverse packages capable of computing desired estimation techniques using sparse matrices as inputs 
 - (In process) Revising R code to utilize these packages
-
-
-
-
-
-
-
