@@ -1,0 +1,17 @@
+---
+published: false
+---
+
+- Prepared and sliced dataset into 8 chunks per quarter for two quarters (2003q1 to 2003q2)
+- Ran STATA preparation successfully for all quarters 2003q1 to 2007q4 except 2004q2, q3, q4. 
+- Ran sparse R script successfully on full dataset (64% sample of all DB1B data) for two quarters, sequentially.  
+- Modified R script to create and process all quarters
+- Andrew created Python script to add expected profit entries of csv's, line by line, to compute a simple average expected profit over all simulations
+- Presented results at Fall Incubator Presentation ceremony
+- Remaining tasks: 1) complete STATA processing for 2004q2-4, 2) finish converting STATA code to R code to run processing step on EC2 cloud (in addition to simulation step), 3) Run R simulation on all quarters for 64% DB1B sample, 4) Estimate entry model, 5) Complete and run counterfactual code.
+
+
+
+
+
+
